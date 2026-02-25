@@ -1,16 +1,20 @@
-# myapp
+# 📖 ProVê
 
-A new Flutter project.
+**ProVê** é um aplicativo de leitura diária do livro de Provérbios.
 
-## Getting Started
+A proposta é simples: ler 1 capítulo por dia, acompanhando o dia do mês  
+(Ex: dia 1 = Provérbios 1, dia 15 = Provérbios 15).
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Objetivo
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Incentivar o hábito da leitura diária do **:contentReference[oaicite:0]{index=0}**, tradicionalmente atribuído a **:contentReference[oaicite:1]{index=1}**.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🎯 Propósito
+
+Criar constância.  
+Desenvolver sabedoria.  
+Viver Provérbios diariamente.
