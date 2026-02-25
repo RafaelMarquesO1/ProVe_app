@@ -9,7 +9,14 @@ A proposta é simples: ler 1 capítulo por dia, acompanhando o dia do mês
 
 ## ✨ Objetivo
 
-Incentivar o hábito da leitura diária do **:contentReference[oaicite:0]{index=0}**, tradicionalmente atribuído a **:contentReference[oaicite:1]{index=1}**.
+Incentivar o hábito da leitura diária do livro de Provérbios, tradicionalmente atribuído a Salomão.
+
+- Desenvolver disciplina e constância espiritual  
+- Estimular a busca por sabedoria prática para o dia a dia  
+- Promover momentos diários de reflexão  
+- Ajudar na formação de caráter e tomada de decisões mais sábias  
+- Facilitar a leitura completa do livro todos os meses  
+- Criar uma rotina simples, objetiva e acessível  
 
 ---
 
